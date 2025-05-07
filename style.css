@@ -1,0 +1,72 @@
+body {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  background-image: url("https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGJsdXUlMjB3aGl0ZXxlbnwwfHx8fDE2ODQ5NTY1NzE&ixlib=rb-4.0.3&q=80&w=1080");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-blend-mode: overlay;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 360px;
+  padding: 33px;
+  text-align: center;
+  background-color: #fff;
+  margin-left: -20px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
+  margin-top: 5px;
+}
+input {
+  width: 270px;
+  padding: 8px;
+  border: 2px solid rgb(6, 145, 145);
+  outline: none;
+  font-size: 19px;
+}
+.add {
+  width: 60px;
+  height: 41px;
+  background-color: rgb(4, 29, 29);
+  color: white;
+  border: none;
+  cursor: pointer;
+
+  outline: none;
+  border-radius: 2px;
+  font-size: 19px;
+}
+.text ul {
+  position: relative;
+  background-color: rgb(5, 31, 31);
+  color: white;
+  font-size: 19px;
+  padding: 7px;
+  text-align: left;
+}
+.text ul i {
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+}
+.remove {
+  margin-left: -20px;
+  margin-top: 15px;
+  height: 41px;
+  background-color: rgb(4, 29, 29);
+  color: white;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  border-radius: 2px;
+  font-size: 19px;
+}
+
