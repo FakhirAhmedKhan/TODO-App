@@ -52,7 +52,7 @@ It’s part of my journey to learn web development and JavaScript.
 
 ---
 
-##🌐 Deployment You can deploy this app easily using GitHub Pages:
+## 🌐 Deployment You can deploy this app easily using GitHub Pages:
 
 Push your project to a GitHub repository.
 
