@@ -65,7 +65,7 @@ Click Save.
 Your app will be available at:
 
 🌐 Deployment
-(https://???)
+(https://todo-app-gamma-seven-13.vercel.app/)
 
 Alternatively, you can use platforms like Netlify, Vercel, or Firebase Hosting to deploy the app by uploading your project folder and following their deployment instructions.
 
